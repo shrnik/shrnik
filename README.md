@@ -3,7 +3,7 @@
 🚀 **Full Stack Engineer | GenAI & LLM Enthusiast | Vision Lab @ GWU**  
 
 - 🏗️ Built and scaled multiple AI-driven applications at **Regie.ai**
-- 📸 Researching **LLM for and image search**  at **GWU Vision Lab** under [Dr. Robert Pless](https://www2.seas.gwu.edu/~pless/index.php)
+- 📸 Researching **LLM for image search**  at **GWU Vision Lab** under [Dr. Robert Pless](https://www2.seas.gwu.edu/~pless/index.php)
 - 🔧 Experienced in **JS/TS, React, and Python**  
 - 🎓 M.S. in Computer Science @ **George Washington University** | BITS Pilani Alum  
 
