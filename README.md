@@ -7,5 +7,5 @@
 - 🔧 Experienced in **JS/TS, React, and Python**  
 - 🎓 M.S. in Computer Science @ **George Washington University** | BITS Pilani Alum  
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/shrenik-borad-a440a18a/) | [Portfolio](#)  
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/shrenik-borad-a440a18a/) | [Resume](https://github.com/shrnik/shrnik/blob/main/Shrenik%20Borad%20AI.docx.pdf)  
 
